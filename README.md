@@ -12,7 +12,7 @@
 
 #
 
-![Examples](https://github.com/sourceduty/Drug_Product/assets/123030236/a619d774-25ff-4267-b5b0-e3ad9c5e8801)
+![Examples](https://github.com/sourceduty/Drug_Product/assets/123030236/d3fb4315-ec66-4546-9b22-fc38e9cf4593)
 
 #
 ### Related Links
