@@ -1,4 +1,4 @@
-![De-aging Pills](https://github.com/sourceduty/Drug_Product/assets/123030236/5ac79e35-b900-4473-a0b6-0b5c626798bb)
+![De-aging Pills](https://github.com/sourceduty/Drug_Product/assets/123030236/a6c99754-acf4-4049-8c0c-500b43283dcc)
 
 > Use DALLE-3 to create product packaging for drugs and vitamins.
 
@@ -9,6 +9,10 @@
 'Drug Product' can help users by offering detailed descriptions for packaging designs, including elements such as shape, color, style, and specific features. It ensures that the designs are simple enough to scale well to smaller sizes while still being effective and eye-catching. The service provides a friendly and professional tone, making the users feel supported and comfortable throughout the design process. By filling in any missing details and offering helpful suggestions and alternatives, 'Drug Product' ensures that users receive a comprehensive and tailored packaging design solution.
 
 'Drug Product' can create a wide range of packaging designs for various pharmaceutical products, including but not limited to pill bottles, blister packs, vitamin containers, and supplement jars. It can design packaging that adheres to industry standards, ensuring compliance with regulatory requirements while maintaining an appealing visual aesthetic. The service focuses on delivering designs that are modern, clean, and professional, suitable for the competitive pharmaceutical market. Whether users need packaging for over-the-counter medications or dietary supplements, 'Drug Product' provides customized and practical design solutions.
+
+#
+
+![Examples](https://github.com/sourceduty/Drug_Product/assets/123030236/16eb24af-1442-450e-b5b1-6bfe54983c8d)
 
 #
 ### Related Links
