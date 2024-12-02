@@ -36,6 +36,10 @@
 [Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
 <br>
 [Cancer Science](https://chatgpt.com/g/g-ALM4A85O7-cancer-science)
+<br>
+[Bud Business](https://github.com/sourceduty/Bud_Business)
+<br>
+[Weed Strain](https://github.com/sourceduty/Weed_Strain)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
