@@ -11,8 +11,9 @@
 'Drug Product' can create a wide range of packaging designs for various pharmaceutical products, including but not limited to pill bottles, blister packs, vitamin containers, and supplement jars. It can design packaging that adheres to industry standards, ensuring compliance with regulatory requirements while maintaining an appealing visual aesthetic. The service focuses on delivering designs that are modern, clean, and professional, suitable for the competitive pharmaceutical market. Whether users need packaging for over-the-counter medications or dietary supplements, 'Drug Product' provides customized and practical design solutions.
 
 #
-
 ![Examples](https://github.com/sourceduty/Drug_Product/assets/123030236/33e5c1e4-263f-4a9a-9c52-b1258051d6db)
+#
+![Zombie Weed](https://github.com/user-attachments/assets/72a99bd4-3970-4381-837b-9036037041c4)
 
 #
 ### Related Links
